@@ -6,7 +6,6 @@
 
 <p align="center">
   <a href="https://pypi.org/project/rnaview/"><img src="https://img.shields.io/pypi/v/rnaview.svg" alt="PyPI version"></a>
-  <a href="https://pypi.org/project/rnaview/"><img src="https://img.shields.io/pypi/pyversions/rnaview.svg" alt="Python versions"></a>
   <a href="https://github.com/kroy3/rnaview/blob/main/LICENSE"><img src="https://img.shields.io/badge/license-MIT-blue.svg" alt="License"></a>
 </p>
 
