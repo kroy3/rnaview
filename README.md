@@ -261,7 +261,7 @@ If you use RNAview in your research, please cite:
 ```bibtex
 @software{rnaview2025,
   title = {RNAview: A Python Package for RNA Structure Visualization and Analysis},
-  author = {RNAview Development Team},
+  author = {Kushal Raj Roy},
   year = {2025},
   url = {https://github.com/kroy3/rnaview}
 }
