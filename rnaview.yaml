@@ -1,0 +1,20 @@
+---
+title: 'RNAview: A Python Package for RNA Structure Visualization and Analysis'
+tags:
+  - Python
+  - RNA
+  - bioinformatics
+  - secondary structure
+  - visualization
+  - computational biology
+authors:
+  - name: Kushal Raj Roy
+    orcid: 0000-0002-4664-7462
+    corresponding: true
+    affiliation: 1
+affiliations:
+  - name: Department of Biology and Biochemistry, University of Houston, Houston, TX 77204, USA
+    index: 1
+date: 14 December 2025
+bibliography: paper.bib
+---
