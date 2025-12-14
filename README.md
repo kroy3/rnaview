@@ -13,6 +13,9 @@
 
 **RNAview** is a powerful, user-friendly Python library designed for researchers to visualize, analyze, and explore RNA secondary and tertiary structures. It provides seamless integration with established RNA structure prediction tools and includes gold-standard benchmark datasets for validation.
 
+
+🔗 Google Colab notebook: [https://colab.research.google.com/drive/1cPzGUo8tK8F6tX7aTd6WlOMl-yY0iDIi?usp=sharing](https://colab.research.google.com/drive/1cPzGUo8tK8F6tX7aTd6WlOMl-yY0iDIi?usp=sharing)
+
 ## 📸 Gallery
 
 ### Multiple Visualization Layouts
